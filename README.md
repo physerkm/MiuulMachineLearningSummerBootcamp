@@ -1,1 +1,1 @@
-# MiuulMachineLearningSummerBootcamp
+# Miuul Machine Learning Summer Bootcamp
